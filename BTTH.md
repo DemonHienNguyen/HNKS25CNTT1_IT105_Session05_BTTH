@@ -1,6 +1,6 @@
 ## Các thành phần của sơ đồ Activity Diagram:
 
-![1789457001206](image/BTTH/1789457001206.png)![1789456947878](image/BTTH/1789456947878.png)
+![1789466319010](image/BTTH/1789466319010.png)![1789457001206](image/BTTH/1789457001206.png)![1789456947878](image/BTTH/1789456947878.png)
 
 ## Nhận diện Tác nhân và Trích xuất Ca sử dụng Use Case
 
